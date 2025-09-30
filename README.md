@@ -30,29 +30,6 @@ Tool	Description
 🧠 Paradigm	Object-Oriented Programming
 🧩 Editor	Visual Studio Code
 ⚙️ Execution	Terminal / Command Prompt
-▶️ How to Run
-
-Clone this repository
-
-git clone https://github.com/your-username/BankAccountSimulation.git
-
-
-Navigate to the project folder
-
-cd BankAccountSimulation
-
-
-Compile the Java file
-
-javac BankAccountSimulation.java
-
-
-Run the program
-
-java BankAccountSimulation
-
-
-Follow the on-screen menu to perform transactions 🏦
 
 🚀 Sample Operations
 🏦 Welcome to Bank Account Simulator
